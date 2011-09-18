@@ -1,0 +1,8 @@
+<div class="actions">
+	<h3>Menu</h3>
+	<ul>
+		<li><a href="/bisad/indicadores">Indicadores</a></li>
+		<li><a href="/bisad/tipo_indicadores">Tipos de indicadores</a></li>
+		<li><a href="/bisad/tipo_medidas">Tipos de Medidas</a></li>
+	</ul>
+</div>

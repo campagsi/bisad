@@ -1,0 +1,9 @@
+<div class="actions">
+	<h3>Ações</h3>
+	<ul>
+		<li><a href="/bisad/indicadores/add">Novo Indicador</a></li>
+		<li><a href="/bisad/tipo_indicadores/add">Novo Tipo de Indicador</a> </li>
+		<li><a href="/bisad/tipo_medidas/add">Novo Tipo de Medida</a> </li>
+		<li><a href="/bisad/indicadores/dashboard">Página Inicial</a> </li>
+	</ul>
+</div>
